@@ -1,6 +1,5 @@
-# Shadow Caster
-Shadwo Caster is a project created for Objective Programming curse.
-The main idea is to cast shadowd on area, that is out of player's vision.
+# HexNoiseMapGenerator
+
 
 ## instalation
 use vcpkg to download SFML x64 in latest version
@@ -20,4 +19,4 @@ Remember to add nesessery paths to windows path section.
 
 If you set up everything correctly, compile project typing "make" in commandline while you are in project's folder
 
-File ShadowCaster.exe should be created in bin folder.
+File .exe should be created in bin folder.
